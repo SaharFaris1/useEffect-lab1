@@ -9,7 +9,7 @@ export default function Nav() {
         <div className="flex justify-between h-16">
      
           <div className="flex-shrink-0 flex items-center">
-        <img src="bag.png" className='w-15 ' alt="" srcset="" />
+        <img src="https://cdn-icons-png.flaticon.com/512/825/825561.png" className='w-15 ' alt="" srcset="" />
           </div>
 
   
